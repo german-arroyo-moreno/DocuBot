@@ -1,0 +1,11 @@
+streamlit
+torch
+pandas
+numpy
+git+https://github.com/huggingface/transformers
+accelerate
+bitsandbytes
+einops
+PyPDF2
+chromadb
+accelerate
